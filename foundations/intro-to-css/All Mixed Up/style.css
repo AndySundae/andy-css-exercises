@@ -1,0 +1,38 @@
+div {
+    color: navy;
+    font-family: sans-serif;
+    background-color: green;
+}
+
+.one, .two {
+    color: aqua;
+    font-size: 32px;
+}
+
+button {
+    background-color: red;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.black, .red, .blu {
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: white;
+    text-align: center;
+}
+.black {
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.red {
+    color: red;
+    background-color: blueviolet;
+}
+
+.blu {
+    color: rgb(66, 177, 228);  
+}
+
