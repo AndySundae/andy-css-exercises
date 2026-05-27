@@ -36,3 +36,10 @@ button {
     color: rgb(66, 177, 228);  
 }
 
+.title.head {
+    font-size: 100px;
+}
+
+.title.subtext {
+    font-size: 50px;
+}
